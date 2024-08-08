@@ -1,5 +1,4 @@
-# Socket Server Basico
+# App de colas usando sockets
 
-Un servidor de Websockets usando Node, Express y Socket.io
+pequeña aplicacion usando sockets, para la gestion de cola de tickets 
 
-Temas cubiertos en mi curso de Node de cero a experto
